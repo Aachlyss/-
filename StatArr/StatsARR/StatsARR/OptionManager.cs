@@ -30,6 +30,11 @@ namespace StatsARR
             var result = arr.Where(x => x % 2 == 0).Sum();
             Console.WriteLine(string.Join(", ", result));
         }
+        public static void OddCount(int[] arr)
+        {
+            var result = arr.Where(x => x % 2 == 0).Count();
+            Console.WriteLine(string.Join(", ", result));
+        }
         public static void PrintArr(int[] arr)
         {
             Console.WriteLine(string.Join(", ",arr));    
