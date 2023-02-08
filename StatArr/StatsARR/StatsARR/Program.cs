@@ -18,6 +18,7 @@ namespace StatsARR
             OptionManager.PrintArr(arr);
             OptionManager.OddNums(arr);
             OptionManager.OddSum(arr);
+            OptionManager.OddCount(arr);
             //
         }
     }
