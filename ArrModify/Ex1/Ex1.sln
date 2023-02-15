@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysPartTwo", "ArraysPartTwo\ArraysPartTwo.csproj", "{4710C8A7-8B70-4203-A4A4-70E6AE403414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuationPartTwo", "ContinuationPartTwo\ContinuationPartTwo.csproj", "{F077B201-7574-43E6-A18E-F4ACEDB98C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4710C8A7-8B70-4203-A4A4-70E6AE403414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4710C8A7-8B70-4203-A4A4-70E6AE403414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4710C8A7-8B70-4203-A4A4-70E6AE403414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4710C8A7-8B70-4203-A4A4-70E6AE403414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F077B201-7574-43E6-A18E-F4ACEDB98C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F077B201-7574-43E6-A18E-F4ACEDB98C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F077B201-7574-43E6-A18E-F4ACEDB98C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F077B201-7574-43E6-A18E-F4ACEDB98C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F04747EF-69CB-41E7-9D7E-0BBD063F81C3}
+	EndGlobalSection
+EndGlobal
