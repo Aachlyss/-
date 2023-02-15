@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache

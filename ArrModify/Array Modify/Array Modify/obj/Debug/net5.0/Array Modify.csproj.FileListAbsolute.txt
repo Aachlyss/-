@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.exe
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.deps.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.runtimeconfig.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.runtimeconfig.dev.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\ref\Array Modify.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\bin\Debug\net5.0\Array Modify.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.AssemblyInfo.cs
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\ref\Array Modify.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ArrModify\Array Modify\Array Modify\obj\Debug\net5.0\Array Modify.genruntimeconfig.cache
