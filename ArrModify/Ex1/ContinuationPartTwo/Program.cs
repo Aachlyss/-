@@ -23,29 +23,29 @@ namespace ContinuationPartTwo
                         break;
                     case "Replace":                    
                             int index = int.Parse(command[1]);
+                        if (index<0 ||index>arr.Length)
+                        {
+                            Console.WriteLine("Invalid Input");
+                        }
+                        else
+                        {
                             string newWord = command[2];
                             arr[index] = newWord;
-                        
-                        {
-                            Console.WriteLine("Invalid code!");
                         }
-                        
                         break;
                     case "Print":
-                        /*  foreach (var item in arr)
-                            {
-                                if (item.StartsWith(command[1]))
-                                {
-                                    Console.Write(item+" ");
-                                }
-                            }
-                        Console.WriteLine();*/
-                        var result = arr.Where(x => x.StartsWith(command[1])).ToArray();
-                        Console.WriteLine(string.Join(" ", arr));
+                        {
+                            var result = arr.Where(x => x.StartsWith(command[1])).ToArray();
+                            Console.WriteLine(string.Join(" ", arr));
+                            break;
+                        }
+
+                    default:
+                        Console.WriteLine("Invalid Input");
                         break;
                 }
+                Console.WriteLine(string.Join(", ", arr));
             }
-            Console.WriteLine(string.Join(", ", arr));
         }
     }
 }
