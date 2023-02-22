@@ -11,11 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution 3", "Solution 3\So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution 4", "Solution 4\Solution 4.csproj", "{BDDFC0CA-521C-4FDF-8059-F90C75A32135}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution 5", "Solution 5\Solution 5.csproj", "{FB19F5FE-9591-4914-AB29-54198B132AEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution 5", "Solution 5\Solution 5.csproj", "{FB19F5FE-9591-4914-AB29-54198B132AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution 6", "Solution 6\Solution 6.csproj", "{280F67A3-B201-4767-AD2B-BF7D718ECF9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution 6", "Solution 6\Solution 6.csproj", "{280F67A3-B201-4767-AD2B-BF7D718ECF9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution 7", "Solution 7\Solution 7.csproj", "{DAB6419F-CD6C-4416-911B-12FFDE3AAA39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solution 7", "Solution 7\Solution 7.csproj", "{DAB6419F-CD6C-4416-911B-12FFDE3AAA39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
