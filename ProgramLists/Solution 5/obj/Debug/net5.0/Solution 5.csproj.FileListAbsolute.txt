@@ -13,3 +13,4 @@ C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ProgramLists\So
 C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ProgramLists\Solution 5\obj\Debug\net5.0\ref\Solution 5.dll
 C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ProgramLists\Solution 5\obj\Debug\net5.0\Solution 5.pdb
 C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ProgramLists\Solution 5\obj\Debug\net5.0\Solution 5.genruntimeconfig.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\ProgramLists\Solution 5\obj\Debug\net5.0\Solution 5.csproj.AssemblyReference.cache
