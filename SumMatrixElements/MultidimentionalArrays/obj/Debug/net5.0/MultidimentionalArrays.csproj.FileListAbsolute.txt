@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.exe
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.deps.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.runtimeconfig.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.runtimeconfig.dev.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\ref\MultidimentionalArrays.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\bin\Debug\net5.0\MultidimentionalArrays.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.AssemblyInfo.cs
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\ref\MultidimentionalArrays.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\MultidimentionalArrays\obj\Debug\net5.0\MultidimentionalArrays.genruntimeconfig.cache

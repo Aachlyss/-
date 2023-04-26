@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.exe
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.deps.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.runtimeconfig.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.runtimeconfig.dev.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\ref\Theme2.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\bin\Debug\net5.0\Theme2.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.AssemblyInfo.cs
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\ref\Theme2.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\Solution1\Theme2\obj\Debug\net5.0\Theme2.genruntimeconfig.cache

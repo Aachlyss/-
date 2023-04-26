@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.exe
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.deps.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\bin\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\ref\PrimaryDiagonal.dll
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.pdb
+C:\Users\Student\Documents\Ivan Angelov 11b\RPP\RPP-Programirane\SumMatrixElements\PrimaryDiagonal\obj\Debug\net5.0\PrimaryDiagonal.genruntimeconfig.cache
